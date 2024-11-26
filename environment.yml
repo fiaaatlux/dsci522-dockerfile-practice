@@ -5,4 +5,3 @@ dependencies:
   - pandas=2.2.2
   - pandera=0.20.4
   - python=3.11
-prefix: /Users/fiatlux/miniforge3/envs/dsci522-dockerfile-practice
